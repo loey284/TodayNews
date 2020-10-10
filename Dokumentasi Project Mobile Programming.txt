@@ -1,0 +1,17 @@
+Dokumentasi 
+
+<!--9 October 2020-->
+TextView dan RecyclerView
+RecyclerView =  If your app needs to display a scrolling list of elements 
+                based on large data sets (or data that frequently changes)
+<!--Comment-->
+a. app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" 
+   Items will be stored horizontal
+b. android:nestedScrollingEnabled="true">
+   Enabled Scrolling
+
+<!--Note--> 
+match_parent: memberikan nilai lebar berdasarkan layar hp 
+wrap_content: memberikan nilai lebar dan tinggi berdasarkan object itu sendiri.
+cardElevation: how much you want your card to be elevated from the screen
+EditText: Add the task
