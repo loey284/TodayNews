@@ -23,6 +23,7 @@ public class SplashActivity extends AppCompatActivity {
             public void run() {
                 startActivity(i);
                 finish();
+                //perform this action
             }
         }, 1000);
 
