@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">ToDoApps</string>
-    <string name="todo">ToDo</string>
-    <string name="i_want_to">I want to...</string>
-    <string name="add">Add</string>
+    <string name="app_name">Today News</string>
+    <string name="news">NEWS</string>
 </resources>
