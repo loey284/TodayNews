@@ -15,3 +15,5 @@ match_parent: memberikan nilai lebar berdasarkan layar hp
 wrap_content: memberikan nilai lebar dan tinggi berdasarkan object itu sendiri.
 cardElevation: how much you want your card to be elevated from the screen
 EditText: Add the task
+
+Ulang lagi.
