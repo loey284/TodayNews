@@ -16,4 +16,9 @@ wrap_content: memberikan nilai lebar dan tinggi berdasarkan object itu sendiri.
 cardElevation: how much you want your card to be elevated from the screen
 EditText: Add the task
 
-Ulang lagi.
+<!--10 October 2020-->
+Pembuatan Tampilan Pertama (Home) untuk aplikasi TodayNews
+Baru menampilkan konten berita. 
+
+<!--15 Oct 2020-->
+Melakukan Perbaikan pada Set Time Format dan Update Layoutnya.

@@ -10,11 +10,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="NEWS"
+        android:text="TodayNews"
         android:fontFamily="@font/g_bold"
         android:textColor="@color/black"
         android:textSize="20sp"
-        android:background="@color/grey"
+        android:background="@color/white"
         android:padding="10dp"
         android:textAlignment="center"/>
 
@@ -38,6 +38,8 @@
             android:background="@drawable/black_background"
             android:ems="10"
             android:hint="Search"
+            android:textStyle="bold"
+            android:fontFamily="@font/g_bold"
             android:textColorHint="@color/grey"
             android:textColor="@color/grey"
             android:padding="10dp"
