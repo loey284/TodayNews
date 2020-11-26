@@ -1,0 +1,31 @@
+Hai semuanya, sorry sebelumnya aplikasinya gua ganti sendiri tanpa diskusi 
+Jadi gua mau buat aplikasi Cinemapp 
+Apasih cinemapp? 
+Aplikasi buat pesen tiket bioskop macam punya xxi cuma bedanya dia detect semua bioskop terus nanti ada review ny gitu dll tambahan kalian bole tambahin 
+
+ada 4 menu utama yg baru gua pikirin 
+1. Now Showing : ini ngelist film yg lg tayang skrg nah ini update database server -> klik filmnya -> detail -> pesen tiket (Wenny) 
+2. Cinema Location : detect lokasi cinema dmn aja, nanti pilih yg kita mau -> nampilin lokasi google map nya -> klo di next nampilin now showing tp versi lokasi itu aja -> pesen tiket (nama) 
+3. promosi -> ini isinya cuma katalog promo misal topup pake apa blabla serah kalian isi aja (nama)
+4. payment -> harusnya sih ini gua kepikirannya nyambung ama account kita -> balance ny di top up dll (nama)
+
+tombol garis 3 diatas, gua mau bikin burger menu isinya cmn O foto profile, menu view profile
+menu view profile (nama)
+
+Wenny progress {
+ masih dalam tahapan now showing
+ database pake XAMPP punya, gua taro 2 file di 1 folder (db) tolong di copy ke htdocs XAMPP kalian masing2 itu buat db nya.. nama folder: (htdocs/cinemapp/[2filecopas]) itu untuk datanya gua isi dari localhost, bikin db baru namanya "cinemapp" tabelnya namanya "film_table"
+dbnya diskip aja klo kalian males, silahkan lanjutin kerjaan kalian
+karna emulator kita punya ip address masing2 jadi ganti ip address nya di class retro klo mau nyoba yg now showing, klo gamau di skip aja, langsung kerjain kerjaan kalian 
+now showing gua harusnya konek sesuai isi yg gua ubah di db localhost gua
+
+Wenny : MainActivity, MovieList, Card_list, Adapter, Model, API
+
+yg dipake : Retrofit2 untuk connect db sama android nya 
+}
+
+tulis nama kalian di bawah kerjain menu apa
+
+silahkan chat gua klo gapaham thanks. 
+
+-wenny 
